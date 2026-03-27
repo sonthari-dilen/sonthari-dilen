@@ -1,13 +1,15 @@
-## Hi there 👋
+# Sonthari Keam
 
-I'm Sonthari - A Final year Health & Medical Science student at Adelaide University, transitioning into biostatistics and health data
+Final year Health & Medical Science student at Adelaide University, 
+transitioning into biostatistics and health data.
 
-LinkedIn: linkedin.com/in/sonthari-dilen-k-519773220
+## Currently
+- Learning R and building toward the Master of Biostatistics
+- Optimising my tutoring business using Excel and R
+- Exploring health datasets and clinical research methods
 
-GitHub: sonthari-dilen
+## Interested in
+Biostatistics · Clinical trials · Health data · Pharmaceutical research
 
-Learning R and Stata
-
-Interested in innovation, neuroscience, and biostatistics.
-
-Currently working on optimising my tutoring business using Excel and R.
+## Connect
+[LinkedIn](linkedin.com/in/sonthari-dilen-k-519773220/) · [Email](mailto:ksontharidilen@gmail.com)
